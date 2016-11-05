@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#424242</color>
     <color name="colorAccent">#FF4081</color>
     <color name="White">#FFFFFF</color>
     <color name="Ivory">#FFFFF0</color>
@@ -143,4 +143,12 @@
     <color name="DarkBlue">#00008B</color>
     <color name="Navy">#000080</color>
     <color name="Black">#000000</color>
+    <color name="primary_material_light">#424242</color>
+    <color name="primary_dark_material_light">#424242</color>
+    <color name="background_material_light">#5b5b5b</color>
+    <color name="foreground_material_light">#424242</color>
+    <color name="black">#424242</color>
+    <color name="primary_text_default_material_light">#d6e8f4</color>
+    <color name="accent_material_light">#eb1919</color>
+    <color name="primary_text_default_material_dark">#b721c2</color>
 </resources>
